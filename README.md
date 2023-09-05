@@ -19,5 +19,5 @@ The training of the sign language recognition model for the Greek alphabet was c
 <img src="https://a.imagem.app/bNPMHb.png" alt="bNPMHb.png" border="0" width="200"/>
 
 ## 5. Implementation
-<img src="https://a.imagem.app/bNPN7r.png" alt="bNPN7r.png" border="0" width="500"/>
+<img src="https://a.imagem.app/bNPN7r.png" alt="bNPN7r.png" border="0" width="800"/>
 
